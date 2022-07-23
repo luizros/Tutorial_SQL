@@ -14,10 +14,10 @@ SQL
 1. DCL: DATA CONTROL LANGUAGE(LINGUAGEM DE CONTROLE DE DADOS)
 1. DTL: DATA TRANSACTION LANGUAGE(LINGUAGEM DE TRANSAÇÃO DE DADOS)
 
-Cada subgrupo SQL possui comandos próprios de execução e ao executar estes comandoS sempre teremos como resultados:
+Cada subgrupo SQL possui comandos próprios de execução e ao executar estes comandos sempre teremos como resultados:
 
 1. O resultado da execução do comando;
 
-2. Uma mensagem* de execução que pode ser de sucesso ou de erro 
+2. Uma mensagem * de execução que pode ser de sucesso ou de erro;
 
-3. Os comandos em SQL devem ser todos feitos em letras maiúsculas, mas não é obrigatoria para seu funcionamento. 
+Obs.: Os comandos em SQL devem ser feitos em letras maiúsculas, pois é uma boa prática de programação.  

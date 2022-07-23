@@ -10,7 +10,7 @@ GRANT SELECT ON tipos_produto TO geek;
 
 No exemplo acima, estamos dando permissão de consulta na tabela tipos_produto para o usuario 'geek'.
 
-REVOKE  
+## REVOKE  
 
 ```SQL
 REVOKE CREAT TABLE FROM geek;
